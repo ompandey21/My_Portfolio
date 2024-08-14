@@ -4,7 +4,7 @@ Welcome to my portfolio repository! This is a collection of my work, projects, a
 
 🌟 <h3>About Me<h3>
 
-Hi! I'm [Your Name], a passionate developer with a love for creating intuitive and efficient applications. Whether it's developing for mobile, web, or exploring new technologies, I'm always eager to learn and grow. I believe in the power of technology to make life better, and I'm committed to building solutions that do just that.
+Hi! I'm Om, a passionate developer with a love for creating intuitive and efficient applications. Whether it's developing for mobile, web, or exploring new technologies, I'm always eager to learn and grow. I believe in the power of technology to make life better, and I'm committed to building solutions that do just that.
 
     Name: Om Dutt Pandey
     Email: omdutt2004@gmail.com
